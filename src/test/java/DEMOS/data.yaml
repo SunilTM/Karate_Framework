@@ -1,0 +1,6 @@
+name: Amir
+input:
+  id: 1
+  subType:
+    name: Raj
+    deleted: false

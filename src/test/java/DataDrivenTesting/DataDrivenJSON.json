@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "email": "suresh.matti@reqres.in",
+    "first_name": "suresh",
+    "last_name": "Matti"
+
+  },
+  {
+    "id": 2,
+    "email": "Mahesh.patti@reqres.in",
+    "first_name": "Mahesh",
+    "last_name": "patti"
+
+  },
+  {
+    "id": 3,
+    "email": "Ramesh.katti@reqres.in",
+    "first_name": "Ramesh",
+    "last_name": "katti"
+  }
+]
